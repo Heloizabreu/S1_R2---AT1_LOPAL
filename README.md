@@ -1,11 +1,34 @@
-# Exercícios de Lopal
+# <!DOCTYPE html>
+<body>
 
-<img width="606" height="688" alt="image" src="https://github.com/user-attachments/assets/261c9797-88f4-4245-a49e-bf3749b620a0" />
+  <div align="center">
+   <h1> 🖥️ SERVIDOR WEB - HTTP 🖥️</h1>
+  </div>
+  <br>
 
-<img width="510" height="748" alt="image" src="https://github.com/user-attachments/assets/b94cd21c-d4d8-4651-90a4-2b1d5f8f7523" />
+  <div align="justify">
+  <hr><h2>MÉTODO GET</h2>
+  <figure>
 
-<img width="707" height="715" alt="image" src="https://github.com/user-attachments/assets/7925f40c-4c8a-4c3c-8cfc-1d9681eda2f5" />
+  <figcaption><i><img width="374" height="128" alt="image" src="https://github.com/user-attachments/assets/aa38a19a-88c7-4a67-b6f3-3f0158f8a830" />
+</i> </figcaption>
+  </figure>
 
-<img width="700" height="714" alt="image" src="https://github.com/user-attachments/assets/7782f47e-081a-41b1-a353-0603fbe2affd" />
 
-<img width="425" height="740" alt="image" src="https://github.com/user-attachments/assets/fd997157-3062-4a12-92f5-8bc64a94cab7" />
+<div align="justify">
+<hr><h2>MÉTODO POST</h2
+<figure>
+
+<figcaption><i><img width="377" height="265" alt="image" src="https://github.com/user-attachments/assets/10557e23-a6e3-4d66-b128-7672164ae135" />
+</i></figcaption
+</figure>
+
+
+<div align="justify">
+<hr><h2>Para essa aplicação, utilizamos dois métodos principais:</h2>
+<li><b>Método GET<b>: Apenas vizualização de dados, não alteramos o servidor.</li>
+<li><b>Médoto POST</b>: Enviamos uma mensagem para o servidor no formato JSON.</li>
+
+
+</body>
+</html>
